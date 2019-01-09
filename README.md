@@ -1,6 +1,4 @@
 # Data-Science-Portfolio
 A portfolio of all the data science projects completed as a part of academics or as independent projects.
 
-About me: My name is Fazal Mahmood and I am a recent graduate of University of Toronto (Canada). I recieved my B.Sc (Hons.) in Astrophysics from this university. As part of my academics I was required to do some comprehensive programming in Python for analysis of data from various sources, which is why I have decided to pursue a caree in Data Science as it suits my skill set the best.
-
-In this repository, you will find various independent projects that I undertook on ly own time to showcase my tangible skill set better.
+CreditRisk_Classification: This project is a binary (good/bad) classification probelm and involves the use of Decision Tree Classifier, Random Forest Classifier and a Deep Neural Network. The first two classifiers were written using the scikit-learn libraries while the last one was written using the keras library in tensorflow. A maximum accuracy of 74.8% was achieved by the Random Forest Classifier which is significant as the maximum accuracy listed on openml.org for this dataset is roughly 78%. This project gives a good insight in the building and training process of the classifiers and compares the accuracy between them.
