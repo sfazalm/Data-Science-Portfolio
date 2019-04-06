@@ -14,3 +14,9 @@ __2. ```Forecasting_Diabetes_SVM```:__ This project is binary classification/for
 ## Data Visualization Project
 
 __1. `California_Wildfire_Visualization`:__ This is purely a data visualization project with some degree of data cleaning involved. The major libraries used in this project are matplotlib and pandas. In this project, I have visualized the trend of wildfires (in terms of frequency and area covered) betwwen the year 1920-2017. The graphs are easy to read and intuitive.
+
+## Tensorflow Tutorials
+
+__1. `Regression`:__ A tutorial on how to perform linear and logistic regression using TensorFlow.
+
+__2. `CNN_MNIST`:__ A tutorial on how to construct and train a Convolutional Neural Network on MNIST dataset using TensorFlow.
