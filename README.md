@@ -20,3 +20,5 @@ __1. `California_Wildfire_Visualization`:__ This is purely a data visualization 
 __1. `Regression`:__ A tutorial on how to perform linear and logistic regression using TensorFlow.
 
 __2. `CNN_MNIST`:__ A tutorial on how to construct and train a Convolutional Neural Network on MNIST dataset using TensorFlow.
+
+__3. `RBM_Movie_Recommendation`:__ A movie recommendation system based on a Restricted Boltzmann Machine.
