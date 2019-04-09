@@ -11,14 +11,16 @@ __2. `CreditRisk_Classification`:__ This project is a binary (good/bad) classifi
 
 __2. ```Forecasting_Diabetes_SVM```:__ This project is binary classification/forecasting problem. We use a dataset of 768 cases where patients were tested positive or negative. Based on the 8 features provided, we predict the oset of diabetes mellitus using a Support Vector Machine classifier. The highest accuracy achived was 80.36% with a precision of 80.85%, which is impressive compared to the best result on openml.org, which are 78.78% (accuracy) and 78.09% (precision).
 
-## Data Visualization Project
-
-__1. `California_Wildfire_Visualization`:__ This is purely a data visualization project with some degree of data cleaning involved. The major libraries used in this project are matplotlib and pandas. In this project, I have visualized the trend of wildfires (in terms of frequency and area covered) betwwen the year 1920-2017. The graphs are easy to read and intuitive.
-
-## Tensorflow Tutorials
+### Tensorflow Tutorials
 
 __1. `Regression`:__ A tutorial on how to perform linear and logistic regression using TensorFlow.
 
 __2. `CNN_MNIST`:__ A tutorial on how to construct and train a Convolutional Neural Network on MNIST dataset using TensorFlow.
 
 __3. `RBM_Movie_Recommendation`:__ A movie recommendation system based on a Restricted Boltzmann Machine.
+
+## Data Visualization Project
+
+__1. `California_Wildfire_Visualization`:__ This is purely a data visualization project with some degree of data cleaning involved. The major libraries used in this project are matplotlib and pandas. In this project, I have visualized the trend of wildfires (in terms of frequency and area covered) betwwen the year 1920-2017. The graphs are easy to read and intuitive.
+
+
